@@ -42,9 +42,3 @@ For this task, I created a **bar chart** to visualize the **top 10 most populous
 
 ---
 
-## 🔗 GitHub Repository Structure
-PRODIGY_DS_01/
-├── output.png # Bar chart image
-├── population_bar_chart.py # Python script
-├── API_SP.POP.TOTL.csv # Dataset file (or link in README)
-└── README.md # Project documentation
